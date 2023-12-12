@@ -1,0 +1,153 @@
+20:39:55.523 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+20:39:55.794 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+20:39:56.195 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+20:39:56.200 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+20:39:59.790 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+20:40:00.330 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+20:40:00.333 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+21:44:11.891 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+21:44:12.168 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+21:44:12.567 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+21:44:12.569 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+21:44:16.202 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+21:44:16.712 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+21:44:16.721 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+22:04:09.367 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+22:04:09.488 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+22:04:09.904 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+22:04:09.907 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+22:04:13.505 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+22:04:14.020 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+22:04:14.022 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+00:22:08.753 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+00:22:08.825 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+00:22:09.683 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+00:22:09.702 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+00:22:13.302 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+00:22:14.045 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+00:22:14.049 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+00:23:44.625 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+00:23:45.002 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+00:23:45.465 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+00:23:45.472 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+00:23:49.641 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+00:23:50.136 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+00:23:50.140 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+00:32:07.889 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+00:32:08.517 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+00:32:09.557 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+00:32:09.618 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+00:32:10.516 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+00:32:10.838 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+00:32:11.566 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+00:32:11.568 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+00:32:14.465 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+00:32:15.035 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+00:32:15.037 [TestNG-tests-1] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+00:32:15.186 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+00:32:15.959 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+00:32:15.959 [TestNG-tests-2] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+21:18:26.349 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+21:18:26.554 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+21:18:26.850 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+21:18:26.853 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+21:18:30.263 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+21:18:30.648 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+21:18:30.650 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+21:23:24.100 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+21:23:24.307 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+21:23:24.571 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+21:23:24.573 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+21:23:27.935 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+21:23:28.150 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+21:25:58.053 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+21:25:58.276 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+21:25:58.581 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+21:25:58.584 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+21:26:01.960 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+21:26:02.218 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+21:27:15.353 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+21:27:15.413 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+21:27:15.768 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+21:27:15.771 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+21:27:19.186 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+21:27:19.594 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+21:27:19.595 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+10:44:17.636 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
+10:50:01.353 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
+11:03:22.814 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
+11:11:02.285 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
+11:13:37.997 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
+11:13:38.889 [main] INFO  testCase.TC_002_LoginTest - *** Finished TC_002_LoginTest****
+14:16:20.245 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
+14:17:30.953 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
+14:17:32.097 [main] INFO  testCase.TC_002_LoginTest - *** Finished TC_002_LoginTest****
+18:58:27.424 [main] INFO  testCase.TC_003_LoginDDT - **** TC_003 Started ****
+18:58:38.364 [main] INFO  testCase.TC_003_LoginDDT - **** TC_003 Started ****
+18:58:49.175 [main] INFO  testCase.TC_003_LoginDDT - *** Finished TC_003_test_login_DDT****
+18:58:49.183 [main] INFO  testCase.TC_003_LoginDDT - **** TC_003 Started ****
+18:58:59.951 [main] INFO  testCase.TC_003_LoginDDT - *** Finished TC_003_test_login_DDT****
+18:58:59.951 [main] INFO  testCase.TC_003_LoginDDT - **** TC_003 Started ****
+18:59:10.687 [main] INFO  testCase.TC_003_LoginDDT - *** Finished TC_003_test_login_DDT****
+18:59:10.687 [main] INFO  testCase.TC_003_LoginDDT - **** TC_003 Started ****
+18:59:21.455 [main] INFO  testCase.TC_003_LoginDDT - *** Finished TC_003_test_login_DDT****
+19:06:43.922 [main] INFO  testCase.TC_003_LoginDDT - **** TC_003 Started ****
+19:06:54.840 [main] INFO  testCase.TC_003_LoginDDT - *** Finished TC_003_test_login_DDT****
+19:06:54.844 [main] INFO  testCase.TC_003_LoginDDT - **** TC_003 Started ****
+19:07:05.646 [main] INFO  testCase.TC_003_LoginDDT - *** Finished TC_003_test_login_DDT****
+19:07:05.646 [main] INFO  testCase.TC_003_LoginDDT - **** TC_003 Started ****
+19:07:16.348 [main] INFO  testCase.TC_003_LoginDDT - *** Finished TC_003_test_login_DDT****
+19:07:16.364 [main] INFO  testCase.TC_003_LoginDDT - **** TC_003 Started ****
+19:07:27.148 [main] INFO  testCase.TC_003_LoginDDT - *** Finished TC_003_test_login_DDT****
+19:07:27.167 [main] INFO  testCase.TC_003_LoginDDT - **** TC_003 Started ****
+19:07:37.810 [main] INFO  testCase.TC_003_LoginDDT - *** Finished TC_003_test_login_DDT****
+22:06:36.979 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+22:06:37.251 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+22:06:37.544 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+22:06:37.546 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+22:06:41.139 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+22:06:41.594 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+22:06:41.603 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+22:07:44.844 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+22:07:45.168 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+22:07:45.462 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+22:07:45.464 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+22:07:49.078 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+22:07:49.536 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+22:07:49.538 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+22:09:10.519 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+22:09:10.906 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+22:09:11.180 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+22:09:11.182 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+22:09:14.770 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+22:09:15.257 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+22:09:15.263 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+22:09:19.796 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
+22:09:21.270 [main] INFO  testCase.TC_002_LoginTest - *** Finished TC_002_LoginTest****
+21:30:59.879 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+21:31:00.069 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+21:31:00.661 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+21:31:00.671 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+21:31:04.248 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+21:31:05.212 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+21:31:05.215 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+21:31:08.787 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
+21:31:10.173 [main] INFO  testCase.TC_002_LoginTest - *** Finished TC_002_LoginTest****
+22:12:23.148 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+22:12:23.383 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+22:12:23.669 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+22:12:23.680 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+22:12:27.177 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+22:12:27.580 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+22:12:27.581 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+22:12:47.763 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
+22:12:52.923 [main] INFO  testCase.TC_002_LoginTest - *** Finished TC_002_LoginTest****
+22:45:08.414 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+22:45:08.526 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+22:45:09.267 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+22:45:09.267 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+22:45:12.855 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+22:45:13.537 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+22:45:13.540 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+22:45:20.612 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
+22:45:22.626 [main] INFO  testCase.TC_002_LoginTest - *** Finished TC_002_LoginTest****
