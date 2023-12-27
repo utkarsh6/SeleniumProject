@@ -82,10 +82,10 @@ public class BaseClass {
 		
 	}
 	
-//   @AfterClass	(groups = {"Master","Regression","Sanity"})
-//	public void tearDown() {
-//	   driver.quit();		
-//	}
+   @AfterClass	(groups = {"Master","Regression","Sanity"})
+	public void tearDown() {
+	   driver.quit();		
+	}
    
    public String randomString() {
 	   String generatedString= RandomStringUtils.randomAlphanumeric(5);
