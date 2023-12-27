@@ -179,3 +179,12 @@
 17:40:20.884 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
 17:40:24.777 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
 17:40:26.391 [main] INFO  testCase.TC_002_LoginTest - *** Finished TC_002_LoginTest****
+20:32:15.265 [main] INFO  testCase.TC_001_AccountRegistrationTest -  ****Starting TC_001_AccountRegistrationTest****
+20:32:15.368 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my account dropdown
+20:32:15.900 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on Register
+20:32:15.910 [main] INFO  testCase.TC_001_AccountRegistrationTest - Providing consumer data 
+20:32:19.349 [main] INFO  testCase.TC_001_AccountRegistrationTest - clicked on my continue
+20:32:20.030 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected Message
+20:32:20.031 [main] INFO  testCase.TC_001_AccountRegistrationTest - *** Finished test case execution***
+20:32:23.986 [main] INFO  testCase.TC_002_LoginTest - *** Starting TC_002_LoginTest****
+20:32:25.103 [main] INFO  testCase.TC_002_LoginTest - *** Finished TC_002_LoginTest****
