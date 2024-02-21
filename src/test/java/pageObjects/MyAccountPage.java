@@ -14,8 +14,26 @@ public class MyAccountPage extends BasePage{
 	@FindBy(xpath="//*[@id=\"content\"]/h2[1]")
 	WebElement SuccessMsg;
 	
-	@FindBy(xpath="//*[@id=\"top-links\"]/ul/li[2]/ul/li[5]/a")
+	@FindBy(xpath="//*[@id=\"column-right\"]/div/a[13]")
 	WebElement logoutBtn;
+	
+	@FindBy(xpath = "//*[@id=\"search\"]/span/button/i")
+	WebElement SearchIcon;
+	
+	// Account Edit Locator
+	
+	@FindBy(xpath="//*[@id=\"column-right\"]/div/a[2]")
+	WebElement EditAccountTab;
+	// Continue to edit profile
+	@FindBy(xpath="//*[@id=\"content\"]/form/div/div[2]/input")
+	WebElement ContinueBtn ;
+	
+	@FindBy (id="input-telephone")
+	WebElement telephoneno;
+	
+	@FindBy(xpath="//*[@id=\"account-account\"]/div[1]")
+	WebElement EditSuccessMsg;
+
 	
 	public boolean isLoginSucces() {
 		try {
@@ -30,8 +48,38 @@ public class MyAccountPage extends BasePage{
 		
 	}
 	
+	public boolean isEditSuccess() {
+		try {
+			return(EditSuccessMsg.isDisplayed());
+		}
+		catch (Exception e) {
+			
+			// TODO: handle exception
+			return false;
+			
+		}
+		
+	}
+	
+
+	
 	public void clickLogout() {
 		logoutBtn.click();
 	}
+	public void clickSearchIcon() {
+		SearchIcon.click();
+	}
+	
+	public void clickEditTab() {
+		EditAccountTab.click();
+	}
+	
+	public void clickContinue() {
+		ContinueBtn.click();
+	}
+	public void setTelephoneNo(String telno) {
+		telephoneno.sendKeys(telno);
+	}
+	
 
 }

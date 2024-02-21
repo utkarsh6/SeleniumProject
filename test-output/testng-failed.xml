@@ -7,12 +7,21 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCase.TC_003_LoginDDT">
+      <class name="testCase.TC_002_003_Login_LogoutTest">
         <methods>
-          <include name="test_login_DDT" invocation-numbers="0"/>
+          <include name="test_login"/>
+          <include name="tearDown"/>
+          <include name="LogoutTest"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCase.TC_003_LoginDDT -->
+      </class> <!-- testCase.TC_002_003_Login_LogoutTest -->
+      <class name="testCase.TC_004_SearchProductsWithoutConsumer">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testSearchWithoutConsumer"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCase.TC_004_SearchProductsWithoutConsumer -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
