@@ -4,6 +4,7 @@
 
 <listeners>
 <listener class-name="utilities.ExtentReportManager"></listener>
+<listener class-name="utilities.Transform"></listener>
 </listeners>
   <test thread-count="5" name="Test">
   <parameter name="browser" value="chrome"></parameter>
