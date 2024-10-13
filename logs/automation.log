@@ -23,3 +23,11 @@
 00:54:44.345 [main] INFO  testCase.TC_002_003_Login_LogoutTest - *** Finished TC_002_LoginTest****
 00:54:44.361 [main] INFO  testCase.TC_002_003_Login_LogoutTest - ***TC_003_LogoutTest Started****
 00:54:45.915 [main] INFO  testCase.TC_002_003_Login_LogoutTest - ***TC_003_LogoutTest Started****
+01:36:35.843 [main] INFO  testCase.TC_002_003_Login_LogoutTest - *** Starting TC_002_LoginTest****
+01:36:37.076 [main] INFO  testCase.TC_002_003_Login_LogoutTest - *** Finished TC_002_LoginTest****
+01:36:37.091 [main] INFO  testCase.TC_002_003_Login_LogoutTest - ***TC_003_LogoutTest Started****
+01:36:37.410 [main] INFO  testCase.TC_002_003_Login_LogoutTest - ***TC_003_LogoutTest Finished****
+01:41:14.211 [main] INFO  testCase.TC_002_003_Login_LogoutTest - *** Starting TC_002_LoginTest****
+01:41:16.237 [main] INFO  testCase.TC_002_003_Login_LogoutTest - *** Starting TC_002_LoginTest****
+01:41:16.328 [main] INFO  testCase.TC_002_003_Login_LogoutTest - ***TC_003_LogoutTest Started****
+01:41:16.468 [main] INFO  testCase.TC_002_003_Login_LogoutTest - ***TC_003_LogoutTest Started****
