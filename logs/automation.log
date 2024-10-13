@@ -19,3 +19,7 @@
 01:36:39.640 [main] INFO  testCase.TC_006_Wishlist - ****TC_006 Wishlist finished ****
 01:36:43.993 [main] INFO  testCase.TC_007_EditProfile - *** Starting TC_007 ***
 01:36:46.804 [main] INFO  testCase.TC_007_EditProfile - *** Finished TC_007 ****
+00:54:42.379 [main] INFO  testCase.TC_002_003_Login_LogoutTest - *** Starting TC_002_LoginTest****
+00:54:44.345 [main] INFO  testCase.TC_002_003_Login_LogoutTest - *** Finished TC_002_LoginTest****
+00:54:44.361 [main] INFO  testCase.TC_002_003_Login_LogoutTest - ***TC_003_LogoutTest Started****
+00:54:45.915 [main] INFO  testCase.TC_002_003_Login_LogoutTest - ***TC_003_LogoutTest Started****
