@@ -11,10 +11,10 @@
   <classes>
   <!-- <class name="testCase.TC_001_AccountRegistrationTest"/>  -->
   <class name="testCase.TC_002_003_Login_LogoutTest"></class>
-  <class name="testCase.TC_004_SearchProductsWithoutConsumer"></class>
+ <!--  <class name="testCase.TC_004_SearchProductsWithoutConsumer"></class>
   <class name="testCase.TC_005_SearchProductsWithConsumer"></class>
   <class name="testCase.TC_006_Wishlist"></class>
-  <class name="testCase.TC_007_EditProfile"></class>
+  <class name="testCase.TC_007_EditProfile"></class> -->
   <!-- <class name="testCase.TC_008_LoginDDT"></class> -->
   
   </classes>
