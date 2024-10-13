@@ -32,11 +32,13 @@
  	 </pluginManagement>
  </build>
   <dependencies>
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-devtools -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
-    <artifactId>selenium-devtools-v86</artifactId>
-    <version>4.17.0</version>
+    <artifactId>selenium-devtools</artifactId>
+    <version>4.0.0-rc-1</version>
 </dependency>
+
 	  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
